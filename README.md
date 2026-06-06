@@ -6,7 +6,7 @@
 </div>
 
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VeldoraWEB&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VeldoraWEB&layout=compact&theme=radical&langs_count=12 )
 <p align="left"> 
 
 <p align="left">
