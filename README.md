@@ -5,10 +5,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VeldoraWEB&layout=compact&theme=radical&langs_count=10 )
-<p align="left"> 
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" />&nbsp;&nbsp;
